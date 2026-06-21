@@ -4,9 +4,9 @@
 
 ## Opis projektu
 
-Panel administracyjny został stworzony jako rozszerzenie projektu sklepu internetowego **SwooshSpot** realizowanego w ramach zajęć na studiach.
+Panel administracyjny został stworzony jako rozszerzenie projektu sklepu internetowego [**SwooshSpot**](https://github.com/KacperZawisza/SwooshSpot) realizowanego w ramach zajęć w technikum.
 
-Jego głównym zadaniem jest umożliwienie administratorowi prostego zarządzania bazą danych poprzez intuicyjny interfejs. Projekt został napisany zgodnie z architekturą **MVC (Model-View-Controller)** z wykorzystaniem programowania obiektowego w języku PHP.
+Jego głównym zadaniem jest umożliwienie administratorowi prostego zarządzania bazą danych poprzez intuicyjny interfejs. Projekt został napisany zgodnie z architekturą **MVC** z wykorzystaniem programowania obiektowego w języku PHP.
 
 > **Uwaga:** Projekt nie został jeszcze ukończony w 100%. Część funkcjonalności jest nadal rozwijana i będzie rozszerzana w kolejnych wersjach.
 
