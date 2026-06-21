@@ -9,9 +9,8 @@ Panel administracyjny został stworzony jako rozszerzenie projektu sklepu intern
 Jego głównym zadaniem jest umożliwienie administratorowi prostego zarządzania bazą danych poprzez intuicyjny interfejs. Projekt został napisany zgodnie z architekturą **MVC** z wykorzystaniem programowania obiektowego w języku PHP.
 
 > [!WARNING]
-> Projekt nie został jeszcze ukończony w 100%. Część funkcjonalności jest nadal rozwijana i będzie rozszerzana w kolejnych wersjach.
+> Projekt nie został jeszcze ukończony w 100%.
 
----
 
 # Funkcjonalności
 
@@ -26,40 +25,16 @@ Panel umożliwia między innymi:
 * wykonywanie własnych zapytań SQL *(wersja BETA)*,
 * korzystanie z przykładowych zapytań SQL przygotowanych dla każdej tabeli.
 
----
-
-# Architektura projektu
-
-Projekt został zbudowany zgodnie z wzorcem projektowym **MVC (Model-View-Controller)**, dzięki czemu logika aplikacji została oddzielona od warstwy prezentacji i obsługi danych.
-Takie podejście ułatwia rozwój aplikacji, jej utrzymanie oraz dodawanie kolejnych funkcjonalności.
-
----
 
 # Technologie
 
-Projekt został wykonany z wykorzystaniem następujących technologii:
-
-* PHP (Programowanie Obiektowe)
+* PHP (Obiektowe)
 * MySQL
 * HTML5
 * CSS3
 * JavaScript
 * Architektura MVC
 
----
-
-# Dashboard
-
-Strona główna panelu administracyjnego zawiera podstawowe informacje dotyczące działania aplikacji.
-
-Aktualnie znajdują się tam między innymi:
-
-* podstawowe statystyki,
-* wykres prezentujący dane,
-* szybki dostęp do modułów administracyjnych,
-* możliwość wykonywania własnych zapytań SQL *(BETA)*.
-
----
 
 # Zarządzanie bazą danych
 
@@ -74,16 +49,6 @@ Administrator może:
 
 Dodatkowo dla każdej tabeli przygotowano przykładowe zapytania SQL, które prezentują sposób pracy z danymi zapisanymi w bazie.
 
----
-
-# Status projektu
-
-Projekt jest w dalszym ciągu rozwijany.
-
-Obecna wersja zawiera większość planowanych funkcjonalności, jednak część modułów wymaga dalszego dopracowania oraz rozbudowy.
-
----
-
 # Cel projektu
 
 Projekt został stworzony w celu rozwijania umiejętności związanych z:
@@ -94,9 +59,3 @@ Projekt został stworzony w celu rozwijania umiejętności związanych z:
 * wykonywaniem operacji CRUD,
 * tworzeniem paneli administracyjnych,
 * organizacją większych projektów programistycznych.
-
----
-
-# Autor
-
-**Kacper Zawisza**
