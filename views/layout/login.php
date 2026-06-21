@@ -38,7 +38,7 @@
             </p>
             <div style="clear: both;"></div>
         </form>
-        <a href="http://localhost/PracowniaProjektowaniaStronInternetowych/Swooshspot">&larrhk; Przejdź na SwooshSpot</a>
+        <a href="../SwooshSpot">&larrhk; Przejdź na SwooshSpot</a>
     </div>
     </div>
 </body>
