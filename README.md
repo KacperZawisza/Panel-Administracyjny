@@ -8,7 +8,8 @@ Panel administracyjny został stworzony jako rozszerzenie projektu sklepu intern
 
 Jego głównym zadaniem jest umożliwienie administratorowi prostego zarządzania bazą danych poprzez intuicyjny interfejs. Projekt został napisany zgodnie z architekturą **MVC** z wykorzystaniem programowania obiektowego w języku PHP.
 
-> **Uwaga:** Projekt nie został jeszcze ukończony w 100%. Część funkcjonalności jest nadal rozwijana i będzie rozszerzana w kolejnych wersjach.
+> [!WARNING]
+> Projekt nie został jeszcze ukończony w 100%. Część funkcjonalności jest nadal rozwijana i będzie rozszerzana w kolejnych wersjach.
 
 ---
 
